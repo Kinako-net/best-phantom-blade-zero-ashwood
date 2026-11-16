@@ -198,6 +198,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Phantom Blade Zero · Updated 2026-11-15 · Shared under the MIT License*
+*Phantom Blade Zero · Updated 2026-11-16 · Shared under the MIT License*
 
-<!-- rev 2026-11-15 -->
+<!-- rev 2026-11-16 -->
